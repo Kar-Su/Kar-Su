@@ -20,7 +20,7 @@
 <div align="left">
   <img
     align="left"
-    height="200"
+    height="150"
     src="https://media1.tenor.com/m/MkZORqzt1AcAAAAd/genshin-impact-genshin.gif"
     alt="genshin gif"  
   />
