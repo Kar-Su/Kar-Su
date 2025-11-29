@@ -25,10 +25,9 @@
     alt="genshin gif"  
   />
   <h3>&nbsp&nbsp Introduction</h3>  
-    &nbsp&nbsp&nbsp 👤 Informatics Engineering student and programmer.<br>
-    &nbsp&nbsp&nbsp 🧠 Currently learning with Rust, C++, and Python.<br>
-    &nbsp&nbsp&nbsp 💻 Interested in machine learning, competitive programming, and backend.<br>
-    &nbsp&nbsp&nbsp 📂 This GitHub is my playground for experiments, learning projects, and ideas.<br>
+    &nbsp&nbsp 👤 Informatics Engineering student and programmer.<br>
+    &nbsp&nbsp 🧠 Currently learning with Rust, C++, and Python.<br>
+    &nbsp&nbsp 💻 Interested in machine learning, competitive programming, and backend.<br>
 </div>
 
 <br clear="both" />
