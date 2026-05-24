@@ -29,7 +29,9 @@
   <h3>Introduction</h3>  
 👤 Informatics Engineering student and programmer.<br>
 🧠 Currently learning with Rust, C++, Python, Golang.<br>
-💻 Interested in machine learning, competitive programming, backend.<br>
+💡 Interested in machine learning, competitive programming, backend.
+💻 Using CachyOS for working
+  <br>
 </div>
 
 <br clear="both" />
