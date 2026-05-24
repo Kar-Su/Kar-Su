@@ -2,32 +2,34 @@
   Kar-Su
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" />
   <p align="center">
-  <a href="https://github.com/Kar-Su">
+  <a href="https://www.linkedin.com/in/muhammad-helmi-b065232a2/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25"      alt="linkedin logo" /> 
   </a>
-   <a href="https://github.com/Kar-Su">
+   <a href="mailto:rumahhelmi@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25"         alt="gmail logo" />
   </a>
   <a href="https://github.com/Kar-Su">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="25"       alt="discord logo" />
   </a>
-  <a href="https://github.com/Kar-Su">
+  <a href="https://www.instagram.com/mhlmi55?igsh=OWNtYnlzZng5Zmkx">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25"     alt="instagram logo" />
   </a>
 </p>
 </h1>
 
-<div align="left">
+<div align="center">
   <img
-    align="left"
-    height="150"
     src="https://media1.tenor.com/m/MkZORqzt1AcAAAAd/genshin-impact-genshin.gif"
     alt="genshin gif"  
   />
-  <h3>&nbsp&nbsp Introduction</h3>  
-    &nbsp&nbsp 👤 Informatics Engineering student and programmer.<br>
-    &nbsp&nbsp 🧠 Currently learning with Rust, C++, and Python.<br>
-    &nbsp&nbsp 💻 Interested in machine learning, competitive programming, and backend.<br>
+
+</div>
+
+<div>
+  <h3>Introduction</h3>  
+👤 Informatics Engineering student and programmer.<br>
+🧠 Currently learning with Rust, C++, Python, Golang.<br>
+💻 Interested in machine learning, competitive programming, backend.<br>
 </div>
 
 <br clear="both" />
@@ -37,13 +39,15 @@
   
   #### _Tech Stack_ 
   
-  <img src="https://skillicons.dev/icons?i=rust" height="35" alt="rust logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=go" height="35" alt="python logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=rust" height="35" alt="rust logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
 </div>
